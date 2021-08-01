@@ -1,0 +1,20 @@
+h1 {
+    font-size: 46px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.name {
+    color: orange;
+}
+.half-w{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-w img{
+    width: 100%;
+}
+.half-w p{
+    font-size: 20px;
+}
